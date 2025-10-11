@@ -1,32 +1,48 @@
 # 👋 Hi, I'm Thirugnanasasti  
-### Aspiring Cloud Engineer | Fresher in Cloud Computing  
+### ☁️ Aspiring Cloud Engineer | Fresher in Cloud Computing  
 
-🌥️ I’m passionate about cloud computing, automation, and scalable infrastructure.  
-🔍 Currently seeking **entry-level Cloud or DevOps Engineer** roles.  
+I’m passionate about building and managing cloud-based solutions.  
+Currently seeking **entry-level Cloud or DevOps Engineer** opportunities where I can apply my AWS, Linux, and automation skills.
 
 ---
 
 ## 💻 Projects
-- **Efficient Detection and Location Privacy Algorithm for WiFi Networks**  
-  Designed to enhance security and protect user privacy in WiFi environments. *(Python, AWS, Networking)*  
-- **AWS Lambda Word Counter**  
-  Serverless app that counts words in text files uploaded to S3 and sends results via SNS.  
-- **Portfolio Website**  
-  Personal website hosted on GitHub Pages showcasing my cloud projects.  
+
+### 🔹 Efficient Detection and Location Privacy Algorithm for WiFi Networks  
+Developed a security algorithm to detect threats and preserve location privacy in WiFi environments.  
+*Technologies used:* Python, Networking, Cloud Concepts  
+
+### 🔹 AWS Lambda Word Counter  
+Created a serverless Lambda function that counts words in text files stored in S3 and sends results via SNS notifications.  
+*Technologies used:* AWS Lambda, S3, SNS, Python  
+
+### 🔹 Cloud Portfolio Website  
+Designed a personal portfolio website hosted on GitHub Pages to showcase my cloud projects and skills.  
+*Technologies used:* HTML, CSS, GitHub Pages  
 
 ---
 
 ## ⚙️ Skills
-AWS • Linux • Python • GitHub • Docker • Networking Basics • Cloud Security  
+- **Cloud Platforms:** AWS  
+- **Programming:** Python  
+- **Operating Systems:** Linux  
+- **Tools:** Git, GitHub, Docker  
+- **Concepts:** Networking, Cloud Security, Automation  
+
+---
+
+## 🎓 Education
+**Bachelor of Engineering – Electronics and Communications**  
+(Include your college name if you’d like)
 
 ---
 
 ## 📫 Contact
-📧 Email: thirugnanasasti@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+📧 **Email:** thirugnanasasti@gmail.com  
+
 
 ---
 
-⭐ Check out my repositories for hands-on cloud and automation projects!
-# Sasti
+⭐ *Check out my repositories below for hands-on projects and contributions!*
+
 My GitHub portfolio showcasing cloud projects and skills.
