@@ -23,11 +23,10 @@ Designed a personal portfolio website hosted on GitHub Pages to showcase my clou
 ---
 
 ## ⚙️ Skills
-- **Cloud Platforms:** AWS  
+- **Cloud Platforms:** AWS, Cloud Services, Cloud Security, Cost Management  
 - **Programming:** Python  
-- **Operating Systems:** Linux  
-- **Tools:** Git, GitHub, Docker  
-- **Concepts:** Networking, Cloud Security, Automation  
+- **Operating Systems:** Linux   
+- **Concepts:** Networking, Automation  
 
 ---
 
